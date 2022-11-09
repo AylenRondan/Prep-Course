@@ -1,0 +1,3 @@
+Array: Para simplificar la definicion, podemos pensar que son como cajitas o contenedores de almacenamiento para colecciones
+de datos. Para contruirla, debemos declarar una vaiable y establecerla en []. Luego se pueden agregar al contenedor,(usando comas
+entre ellas), tantas variables como queramos y ademas se puede acceder a ellas en cualquier momento.
