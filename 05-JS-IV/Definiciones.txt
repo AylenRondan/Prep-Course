@@ -1,0 +1,9 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+1 - OBJETOS: Es un coleccion de propiedades.
+2 - PROPIEDADES:Una propiedad es una asociacion entre un nombre (o key) y un valor (o value).
+3 - METODOS: Son las funciones guardadas en los objetos. Ej. .pop; .length ; etc.
+4 - BUCLES FOR...IN : Es un bucle similar al for. Solo que al no tener indices numericos,entre parentesis se declara una variable
+"in" y el nombre del objeto. Esto hara que el loop recorra el objeto y terminara cuando se hayan terminado todas las claves.
+5 - BRACKETS NOTATION vs. DOT NOTATION: Son formas de acceder a las propiedades. Donde la ventaja de dot notation es que es facil de
+escribir. Para recorrer un objeto es mejor usar Bracket notation, ya que se puedem hacer mas cosas. 
